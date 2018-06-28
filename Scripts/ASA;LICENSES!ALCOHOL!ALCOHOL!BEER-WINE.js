@@ -1,0 +1,1 @@
+logDebug("*****   ASA:LICENSES/ALCOHOL/ALCOHOL/Beer-Wine   ********");
